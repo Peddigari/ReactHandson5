@@ -1,0 +1,11 @@
+body {
+  height: 100vh;
+  background-color: aquamarine;
+  
+  /* text-align: center; */
+}
+.purecomp{
+  margin: 10px;
+  /* border-bottom: 1px solid black; */
+}
+
